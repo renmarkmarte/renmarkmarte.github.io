@@ -90,11 +90,11 @@ class App extends Component {
           <Nav/>
 
               <Route exact path="/renmarte" component={Works}/>
-              <Route exact path="/works" component={Works}/>
-              <Route exact path="/about" component={About}/>
-              <Route exact path="/contact" component={Contact}/>
-              <Route exact path="/easysheetcalculator" component={EasySheetCalculator}/>
-              <Route exact path="/photo_blog" component={PhotoBlog}/>
+              <Route exact path="/renmarte/works" component={Works}/>
+              <Route exact path="/renmarte/about" component={About}/>
+              <Route exact path="/renmarte/contact" component={Contact}/>
+              <Route exact path="/renmarte/easysheetcalculator" component={EasySheetCalculator}/>
+              <Route exact path="renmarte/photo_blog" component={PhotoBlog}/>
               <Route exact path="/works/RMD" render={ props => <RMD {...props} projects={this.state.projects} featuredproject={this.state.featuredproject}/>} />
               <Route exact path="/works/RM" render={ props => <RM {...props} projects={this.state.projects} featuredproject={this.state.featuredproject}/>} />
               <Route exact path="/works/DR" render={ props => <DR {...props} projects={this.state.projects} featuredproject={this.state.featuredproject}/>} />
