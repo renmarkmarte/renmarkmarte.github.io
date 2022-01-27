@@ -34,7 +34,7 @@
 .project-featured-container p,
 .work-description p {
 	font-family: 'Roboto Mono', sans-serif;
-	font-size: 10px;
+	font-size: 11px;
 	font-weight: 400;
 	color: #282828;
 	margin-bottom: 30px;
@@ -52,7 +52,7 @@
 
 .project-icon-container p {
 	font-family: 'Roboto Mono', sans-serif;
-	font-size: 10px;
+	font-size: 11px;
 	font-weight: 400;
 	color: #282828;
 }
@@ -101,7 +101,7 @@
 .navbar-nav .nav-item a:link, .navbar-nav .nav-item a:visited {
 	padding: 0px 15px;
 	font-family: 'Roboto Mono', sans-serif;
-	font-size: 10px;
+	font-size: 11px;
 	font-weight: 400;
 	color: #999999;
 }
@@ -121,7 +121,7 @@
 .navbar-nav .navbar-text {
 	padding: 0px 5px;
 	font-family: 'Roboto Mono', sans-serif;
-	font-size: 10px;
+	font-size: 11px;
 	font-weight: 700;
 	color: #000000;
 }
@@ -189,7 +189,7 @@
 	padding: 6px 30px;
 	font-family: 'Roboto Mono',sans-serif;
 	font-weight: 200px;
-	font-size: 10px;
+	font-size: 11px;
 }
 
 .footer-row {
